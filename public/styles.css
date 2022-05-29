@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+}
+
+.info {
+    display: flex;
+}
+
+.heading {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formfields {
+    width: 50%;
+}
+
+.MuiFormControl-root.MuiTextField-root.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    margin-bottom: 20px;
+}
+
+.MuiFormControl-root.css-1nrlq1o-MuiFormControl-root {
+    border: 1px solid black;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+.productlist {
+    padding: 0px 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.css-1ri6ub7-MuiPaper-root-MuiCard-root {
+    margin: 15px;
+}
+
+.MuiAutocomplete-root.css-16awh2u-MuiAutocomplete-root {
+    margin: 20px;
+    width: 45%;
+}
+
+.MuiBox-root.css-ece9u5 {
+    margin: 20px;
+    width: 45%;
+}
+
+.topfilters{
+    display: flex;
+    justify-content: space-between;
+}
+
